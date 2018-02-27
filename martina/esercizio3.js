@@ -41,3 +41,5 @@ console.log(esercizio("uno"));
 console.log(esercizio("F"));
 console.log(esercizio(2 * 3));
 console.log(esercizio());
+
+
